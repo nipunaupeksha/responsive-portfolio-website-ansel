@@ -79,6 +79,9 @@ Intermediate
 Firebase
 Intermediate
 
+Java
+Intermediate
+
 ========== SERVICES ==========
 .section__subtitle | .section__title
 My Services
